@@ -33,14 +33,14 @@
 </div>
 
 <!-- Contribution Metrics -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VidhitaYadav&theme=midnight-purple" alt="Contribution Graph" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VidhitaYadav&theme=midnight-purple" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VidhitaYadav&theme=midnight-purple" alt="Most Commit Language" />
-</div>
+</div> -->
 
 
 <!-- Technical Skills Section - Enhanced -->

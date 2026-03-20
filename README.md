@@ -154,10 +154,6 @@
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/GeeksforGeeks-200%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/SIH'25-Participant-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNU0yIDEybDEwIDUgMTAtNSIvPjwvc3ZnPg==" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Codolio-Profile_Active-9B59B6?style=for-the-badge" />
       </td>
     </tr>
   </table>

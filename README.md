@@ -32,17 +32,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VidhitaYadav&theme=midnight-purple&hide_border=true&background=0d1117&stroke=9B59B6&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6" />
 </div>
 
-<!-- Contribution Metrics -->
-<!-- <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VidhitaYadav&theme=midnight-purple" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VidhitaYadav&theme=midnight-purple" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VidhitaYadav&theme=midnight-purple" alt="Most Commit Language" />
-</div> -->
-
-
 <!-- Technical Skills Section - Enhanced -->
 ## 🛠️ Technical Skills
 

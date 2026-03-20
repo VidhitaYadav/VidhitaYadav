@@ -152,9 +152,6 @@
       <td align="center" width="33%">
         <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vi_dhi_ta&theme=dark" alt="Codeforces Stats" width="350" />
       </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-200%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks" />
-      </td>
     </tr>
   </table>
 </div>

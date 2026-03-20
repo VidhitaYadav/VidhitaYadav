@@ -66,6 +66,20 @@
 
 
 
+
+
+
+
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VidhitaYadav&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidhitaYadav&layout=compact&theme=radical" />
+</div>
+
+
+
+
+
 <!-- Technical Skills Section - Enhanced -->
 ## 🛠️ Technical Skills
 

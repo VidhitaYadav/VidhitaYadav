@@ -42,6 +42,30 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VidhitaYadav&theme=midnight-purple" alt="Most Commit Language" />
 </div>
 
+
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VidhitaYadav&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidhitaYadav&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VidhitaYadav&theme=radical&hide_border=true" />
+</div>
+
+<!-- Contribution Graph - FIXED: Using activity graph instead -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VidhitaYadav&theme=rogue&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff" alt="Contribution Graph" />
+</div>
+
+<!-- Repos per Language & Most Commit Language - FIXED: Using summary cards -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VidhitaYadav&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VidhitaYadav&theme=radical" alt="Most Commit Language" />
+</div>
+
+
+
 <!-- Technical Skills Section - Enhanced -->
 ## 🛠️ Technical Skills
 

@@ -105,12 +105,11 @@
             <li>⚡ Custom preprocessing pipeline for question-answer dataset optimization</li>
             <li>🎨 Real-time Gradio interface for interactive testing and visualization</li>
           </ul>
-          <a href="https://github.com/VidhitaYadav/confidence-answer-verification">
+          <a href="https://github.com/VidhitaYadav/Confidence-aware-answer-verification">
             <img src="https://img.shields.io/badge/View_Repo-9B59B6?style=for-the-badge&logo=github" />
           </a>
           <a href="https://huggingface.co/spaces/VidhitaYadav/answer-verification">
-            <img src="https://img.shields.io/badge/Live_Demo-FFD21E?style=for-the-badge&logo=huggingface" />
-          </a>
+        </a>
         </div>
       </td>
       <td width="50%">
@@ -126,11 +125,10 @@
             <li>🎯 Improved generalization using fine-tuning and regularization techniques</li>
             <li>🖥️ Deployed via Gradio web interface for real-time predictions</li>
           </ul>
-          <a href="https://github.com/VidhitaYadav/chest-xray-classification">
+          <a href="https://github.com/VidhitaYadav/Chest-XRay-Classification-ResNet50">
             <img src="https://img.shields.io/badge/View_Repo-9B59B6?style=for-the-badge&logo=github" />
           </a>
           <a href="https://huggingface.co/spaces/VidhitaYadav/chest-xray-detection">
-            <img src="https://img.shields.io/badge/Live_Demo-FFD21E?style=for-the-badge&logo=huggingface" />
           </a>
         </div>
       </td>

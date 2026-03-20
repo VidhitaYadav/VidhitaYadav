@@ -15,7 +15,6 @@
            <li>📊 <strong>200+ DSA Problems Solved</strong> across LeetCode, GFG & Codeforces</li>
            <li>🏆 <strong>Smart India Hackathon 2025 Participant</strong></li>
            <li>🔬 Built <strong>transformer-based NLP systems</strong> and <strong>CNN models</strong> for healthcare</li>
-           <li>💡 Currently exploring <strong>MLOps, LLMs & System Design</strong></li>
          </ul>
        </td>
        <td width="40%">

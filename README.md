@@ -1,136 +1,216 @@
-# Hi 👋, I'm Vidhita Yadav
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=9B59B6&center=true&vCenter=true&random=false&width=500&lines=Hi+👋,+I'm+Vidhita+Yadav;AIML+Student+%7C+AI+Enthusiast;Building+Intelligent+Systems;200%2B+DSA+Problems+Solved;Smart+India+Hackathon+'25+Participant" alt="Typing SVG" />
+</div>
 
-**AIML Student | AI Enthusiast | Building Intelligent Systems**
-
-📂 B.Tech CSE (AIML) @ NIET | CGPA: 8.28  
-📍 Greater Noida, Uttar Pradesh
-
----
-
-## About Me
-
-- 🔭 Currently working on **AI/ML & Deep Learning projects**
-- 🌱 Learning **MLOps, LLMs, System Design, Cloud Computing**
-- 💡 200+ DSA problems solved across LeetCode, GFG & Codeforces
-- 🏆 Smart India Hackathon 2025 Participant
-- 🎯 Looking for SDE roles to build reliable, high-performance software
-
----
-
-## Tech Stack
-
-**Languages**  
-Java | Python | JavaScript
-
-**Web & Backend**  
-HTML | CSS | Bootstrap | Node.js | Express.js | EJS
-
-**AI/ML**  
-PyTorch | TensorFlow | Keras | Hugging Face | OpenCV | YOLOv8
-
-**Database & Tools**  
-MySQL | Git | GitHub | VS Code | Jupyter | Kaggle
-
-**Core CS**  
-DSA | OS | DBMS | CN | OOPs | REST APIs | MVC
-
----
-
-## Featured Projects
-
-### 🎯 Confidence-Aware Answer Verification System
-*Python | PyTorch | HuggingFace | Gradio*
-
-- Transformer-based answer verification using RoBERTa with confidence scoring
-- ~89% validation accuracy on answer reliability classification
-- Real-time Gradio interface for interactive testing
-
-[View Repo](https://github.com/VidhitaYadav/confidence-answer-verification) • [Live Demo](https://huggingface.co/spaces/VidhitaYadav/answer-verification)
-
----
-
-### 🫁 Multi-Class Chest X-Ray Disease Detection
-*Python | TensorFlow | Keras | ResNet50 | CNN | Gradio*
-
-- ResNet50-based transfer learning for 7 thoracic diseases
-- Processed 8.4K X-ray images with data normalization
-- Deployed via Gradio web interface
-
-[View Repo](https://github.com/VidhitaYadav/chest-xray-classification) • [Live Demo](https://huggingface.co/spaces/VidhitaYadav/chest-xray-detection)
-
----
-
-### 👁️ Real-Time Object Detection System
-*Python | YOLOv8 | OpenCV | Streamlit*
-
-- Object detection for image and webcam-based inputs
-- Detects 80+ object classes using COCO-trained YOLOv8
-- Visualizes bounding boxes and class labels in real-time
-
-[View Repo](https://github.com/VidhitaYadav/object-detection-yolo)
-
----
-
-### 🌐 Full-Stack Web Application
-*Node.js | Express.js | EJS | MySQL*
-
-- RESTful APIs following MVC architecture
-- CRUD operations with MySQL database
-- Session management and authentication
-
-[View Repo](https://github.com/VidhitaYadav/webapp-express)
-
----
-
-## Achievements
-
-| Platform | Stats |
-|----------|-------|
-| **LeetCode** | 200+ Problems |
-| **GeeksforGeeks** | 200+ Problems |
-| **Codeforces** | Active Participant |
-| **Smart India Hackathon** | SIH'25 Participant |
-
----
-
-## Certifications
-
-- DSA Alpha Plus – Apna College
-- Deep Learning for Developers – Infosys
-- React Js – Infosys
-- Introduction to Cybersecurity – Cisco Networking Academy
-- OOPs – Infosys
-
-[View All Certificates](https://drive.google.com/your-certificates-link)
-
----
-
-## GitHub Stats
+<!-- About Me Section with Professional Summary -->
+## 👩‍💻 About Me
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VidhitaYadav&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidhitaYadav&layout=compact&theme=radical&hide_border=true" />
+  <table>
+     <tr>
+       <td width="60%">
+         <ul>
+           <li>🎓 <strong>B.Tech CSE (AIML)</strong> @ NIET | <strong>CGPA: 8.28</strong></li>
+           <li>🤖 Passionate about <strong>AI/ML, Deep Learning & Scalable Systems</strong></li>
+           <li>📊 <strong>200+ DSA Problems Solved</strong></li>
+           <li>🏆 <strong>Smart India Hackathon 2025 Participant</strong></li>
+           <li>🔬 Built <strong>transformer-based NLP systems</strong> and <strong>CNN models</strong> for healthcare</li>
+         </ul>
+       </td>
+       <td width="40%">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidhitaYadav&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9B59B6&icon_color=9B59B6" alt="Top Languages" />
+       </td>
+     </tr>
+   </table>
+</div>
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VidhitaYadav&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9B59B6&icon_color=9B59B6&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VidhitaYadav&theme=midnight-purple&hide_border=true&background=0d1117&stroke=9B59B6&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6" />
+</div>
+
+<!-- Contribution Metrics -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VidhitaYadav&theme=midnight-purple" alt="Contribution Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VidhitaYadav&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VidhitaYadav&theme=midnight-purple" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VidhitaYadav&theme=midnight-purple" alt="Most Commit Language" />
+</div>
+
+<!-- Technical Skills Section - Enhanced -->
+## 🛠️ Technical Skills
+
+<div align="center">
+  
+  ### 💻 Programming Languages
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  
+  ### 🌐 Web Development
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![EJS](https://img.shields.io/badge/EJS-8B5A2B?style=for-the-badge&logo=ejs&logoColor=white)
+  
+  ### 🤖 AI/ML & Deep Learning
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+  ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+  
+  ### 🗄️ Databases & Tools
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+  
+  ### 📚 Core CS Concepts
+  ![DSA](https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge)
+  ![OS](https://img.shields.io/badge/Operating_Systems-4ECDC4?style=for-the-badge)
+  ![DBMS](https://img.shields.io/badge/DBMS-45B7D1?style=for-the-badge)
+  ![CN](https://img.shields.io/badge/Computer_Networks-96CEB4?style=for-the-badge)
+  ![OOPs](https://img.shields.io/badge/OOPs-FFEAA7?style=for-the-badge)
+  ![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge)
+  ![MVC](https://img.shields.io/badge/MVC_Architecture-4ECDC4?style=for-the-badge)
+  
+</div>
+
+<!-- Featured Projects - Highlighting Your AI/ML Work -->
+## 🚀 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎯 Confidence-Aware Answer Verification System</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch" />
+          <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface" />
+          <img src="https://img.shields.io/badge/Gradio-FF6B6B?style=flat" />
+          <p><strong>Transformer-based NLP System with Confidence Scoring</strong></p>
+          <ul align="left">
+            <li>🎯 Built RoBERTa-based model predicting answer correctness with confidence scores</li>
+            <li>📊 Achieved ~89% validation accuracy on answer reliability classification</li>
+            <li>⚡ Custom preprocessing pipeline for question-answer dataset optimization</li>
+            <li>🎨 Real-time Gradio interface for interactive testing and visualization</li>
+          </ul>
+          <a href="https://github.com/VidhitaYadav/confidence-answer-verification">
+            <img src="https://img.shields.io/badge/View_Repo-9B59B6?style=for-the-badge&logo=github" />
+          </a>
+          <a href="https://huggingface.co/spaces/VidhitaYadav/answer-verification">
+            <img src="https://img.shields.io/badge/Live_Demo-FFD21E?style=for-the-badge&logo=huggingface" />
+          </a>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🫁 Multi-Class Chest X-Ray Disease Detection</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow" />
+          <img src="https://img.shields.io/badge/ResNet50-00ACC1?style=flat" />
+          <img src="https://img.shields.io/badge/CNN-FF6B6B?style=flat" />
+          <p><strong>Transfer Learning for Medical Image Classification</strong></p>
+          <ul align="left">
+            <li>🏥 Designed ResNet50-based pipeline for 7 thoracic disease classification</li>
+            <li>📸 Processed 8.4K X-ray images with data normalization & batch training</li>
+            <li>🎯 Improved generalization using fine-tuning and regularization techniques</li>
+            <li>🖥️ Deployed via Gradio web interface for real-time predictions</li>
+          </ul>
+          <a href="https://github.com/VidhitaYadav/chest-xray-classification">
+            <img src="https://img.shields.io/badge/View_Repo-9B59B6?style=for-the-badge&logo=github" />
+          </a>
+          <a href="https://huggingface.co/spaces/VidhitaYadav/chest-xray-detection">
+            <img src="https://img.shields.io/badge/Live_Demo-FFD21E?style=for-the-badge&logo=huggingface" />
+          </a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+    </table>
+</div>
+
+<!-- Competitive Programming & Achievements -->
+## 🏅 Achievements & Competitive Programming
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://leetcard.jacoblin.cool/Vi_dhi_ta?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" width="350" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vi_dhi_ta&theme=dark" alt="Codeforces Stats" width="350" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-200%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/SIH'25-Participant-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNU0yIDEybDEwIDUgMTAtNSIvPjwvc3ZnPg==" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Codolio-Profile_Active-9B59B6?style=for-the-badge" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VidhitaYadav&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9B59B6" alt="WakaTime Stats" />
+</div>
+
+<!-- Activity Graph -->
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VidhitaYadav&theme=react-dark&bg_color=0d1117&hide_border=true&point=9B59B6&line=9B59B6&color=9B59B6" alt="Activity Graph" />
+</div>
+
+
+<!-- Connect Section -->
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vidhita-yadav/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yadavvidhita@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Vi_dhi_ta/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/Vi_dhi_ta">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/yadavvitled">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://github.com/VidhitaYadav">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/Vidhita">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+</div>
+
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VidhitaYadav&label=Profile%20Views&color=9B59B6&style=flat" alt="Profile Views" />
 </div>
 
 ---
 
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhita-yadav)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yadavvidhita@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vi_dhi_ta/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Vi_dhi_ta)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/yadavvitled)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/VidhitaYadav)
-
----
-
 <div align="center">
-  <i>Building intelligent systems that make a difference</i>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=VidhitaYadav&label=Profile%20Views&color=blue&style=flat" />
+  <i>💡 "Building intelligent systems that make a difference | Passionate about AI & Scalable Solutions"</i>
+  <br/><br/>
+  <i>⭐️ From <a href="https://github.com/VidhitaYadav">Vidhita Yadav</a></i>
 </div>

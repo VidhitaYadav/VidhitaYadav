@@ -2,6 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=9B59B6&center=true&vCenter=true&random=false&width=500&lines=Hi+👋,+I'm+Vidhita+Yadav;AIML+Student+%7C+AI+Enthusiast;Building+Intelligent+Systems;200%2B+DSA+Problems+Solved;Smart+India+Hackathon+'25+Participant" alt="Typing SVG" />
 </div>
 
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=435&lines=AIML+Student;AI+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
+</div>
+
+
+
 <!-- About Me Section with Professional Summary -->
 ## 👩‍💻 About Me
 
@@ -31,6 +38,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VidhitaYadav&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9B59B6&icon_color=9B59B6&include_all_commits=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VidhitaYadav&theme=midnight-purple&hide_border=true&background=0d1117&stroke=9B59B6&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6" />
 </div>
+
+
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VidhitaYadav&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidhitaYadav&layout=compact&theme=radical" />
+</div>
+
+
 
 <!-- Technical Skills Section - Enhanced -->
 ## 🛠️ Technical Skills

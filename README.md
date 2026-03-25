@@ -183,112 +183,14 @@
   </a>
 </div>
 
-## ⚡ The Rainbow Grind
+### 🐍 Contribution Snake Animation
 
 <div align="center">
   
-| | | |
-|:--:|:--:|:--:|
-| <img src="https://img.shields.io/badge/📊_TOTAL_CONTRIBUTIONS-301-FF6B6B?style=for-the-badge" /> | <img src="https://img.shields.io/badge/🔥_CURRENT_STREAK-1_day-FFB347?style=for-the-badge" /> | <img src="https://img.shields.io/badge/🏆_LONGEST_STREAK-33_days-FFD700?style=for-the-badge" /> |
-| *Jul 15, 2024 - Present* | *Mar 20* | *Jan 25 - Feb 26* |
+![Snake Animation](https://raw.githubusercontent.com/VidhitaYadav/VidhitaYadav/output/snake.svg)
 
-| | | |
-|:--:|:--:|:--:|
-| <img src="https://img.shields.io/badge/⭐_TOTAL_STARS-4-9B59B6?style=for-the-badge" /> | <img src="https://img.shields.io/badge/🔄_TOTAL_PRS-1-4ECDC4?style=for-the-badge" /> | <img src="https://img.shields.io/badge/💻_PROBLEMS_SOLVED-200+-FF6B9D?style=for-the-badge" /> |
+*The snake eats your contributions - keep the grind alive!* 🐍
 
-</div>
-
----
-
-### 🌈 Rainbow Contribution Wave
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VidhitaYadav&theme=github&bg_color=0d1117&color=FF6B6B&line=FFB347&point=FFD700&area=true&area_color=FF6B6B&hide_border=true&custom_title=🌈+Contribution+Wave" alt="Rainbow Wave Graph" />
-</div>
-
----
-
-### 🎯 Yearly Goal Progress
-
-<div align="center">
-  
-![82%](https://progress-bar.xyz/82?title=🎯_Goal:_365_contributions&width=500&color=ff6b6b,ffb347,ffd700,9b59b6,4ecdc4)
-
-**301 / 365 contributions** • 82% to yearly goal
-
-</div>
-
----
-
-### 📈 Contribution Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VidhitaYadav&show_icons=true&count_private=true&theme=radical&hide_border=true&title_color=FF6B6B&icon_color=FFB347&text_color=FFD700&bg_color=0d1117" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidhitaYadav&layout=compact&theme=radical&hide_border=true&title_color=FF6B6B&text_color=FFD700&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VidhitaYadav&theme=radical&hide_border=true&ring=FF6B6B&fire=FFB347&currStreakLabel=FFD700" />
-</div>
-
----
-
-### 🐍 Rainbow Snake Animation
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VidhitaYadav/VidhitaYadav/output/snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VidhitaYadav/VidhitaYadav/output/snake.svg" />
-    <img alt="Rainbow Snake Animation" src="https://raw.githubusercontent.com/VidhitaYadav/VidhitaYadav/output/snake.svg" />
-  </picture>
-  <br/>
-  <i>🐍 Rainbow snake eating through 2025 contributions</i>
-</div>
-
----
-
-### 🌈 Daily Contribution Heatmap
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/VidhitaYadav" alt="Rainbow Contribution Calendar" />
-</div>
-
----
-
-### ✨ Rainbow Typing Effect
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=🌈+The+Rainbow+Grind;🔥+301+contributions+and+counting;💜+200%2B+DSA+problems+solved;⭐+4+stars+earned;🚀+Building+AI+systems+with+color" alt="Rainbow Typing" />
-</div>
-
----
-
-### 📊 Weekly Activity Breakdown
-
-<div align="center">
-  
-| Day | Contributions | Progress |
-|-----|---------------|----------|
-| **Monday** | 42 | ████████████████████ |
-| **Tuesday** | 38 | ██████████████████ |
-| **Wednesday** | 45 | █████████████████████ |
-| **Thursday** | 41 | ███████████████████ |
-| **Friday** | 35 | ████████████████ |
-| **Saturday** | 28 | █████████████ |
-| **Sunday** | 72 | ████████████████████████████████████ |
-
-*Most active: Sunday with 72 contributions!* 🎉
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VidhitaYadav&label=🌈+Rainbow+Profile+Views&color=FF6B6B&style=flat" />
-  <br/><br/>
-  <i>✨ "Code in rainbow colors, build with passion" ✨</i>
-  <br/>
-  <i>🌈 Every contribution adds a new color to the spectrum</i>
 </div>
 
 

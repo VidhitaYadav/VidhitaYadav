@@ -37,8 +37,8 @@
 </div> -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VidhitaYadav&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&icon_color=8B5CF6" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VidhitaYadav&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=c9d1d9" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VidhitaYadav&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9B59B6&text_color=c9d1d9&icon_color=9B59B6" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VidhitaYadav&hide_border=true&background=0d1117&stroke=9B59B6&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6&sideLabels=c9d1d9&dates=c9d1d9" height="160" />
 </div>
 
 <!-- Technical Skills Section - Enhanced -->

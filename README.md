@@ -128,25 +128,7 @@
     </table>
 </div>
 
-<!-- Competitive Programming & Achievements -->
-## 🏅 Achievements & Competitive Programming
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://leetcard.jacoblin.cool/Vi_dhi_ta?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" width="350" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vi_dhi_ta&theme=dark" alt="Codeforces Stats" width="350" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VidhitaYadav&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9B59B6" alt="WakaTime Stats" />
-</div>
 
 <!-- Activity Graph -->
 ## 📈 Contribution Activity

@@ -183,11 +183,11 @@
   </a>
 </div>
 
-### 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake Animation
 
 <div align="center">
   
-![Snake Animation](https://raw.githubusercontent.com/VidhitaYadav/VidhitaYadav/output/snake.svg)
+<img src="https://github.com/VidhitaYadav/VidhitaYadav/blob/output/snake.svg?raw=true" alt="Snake Animation" />
 
 *The snake eats your contributions - keep the grind alive!* 🐍
 

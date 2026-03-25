@@ -36,6 +36,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidhitaYadav&layout=compact&theme=midnight-purple&hide_border=true" height="160"/>
 
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vikas1715&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas1715&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
+
 
 <!-- Technical Skills Section - Enhanced -->
 ## 🛠️ Technical Skills

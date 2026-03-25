@@ -1,8 +1,9 @@
-# Hi 👋, I'm Vidhita Yadav
+<h1 align="center">Hi 👋, I'm Vidhita Yadav</h1>
+<h3 align="center">🚀 AIML Student | AI Enthusiast | Building Intelligent Systems</h3>
 
-**AIML Student | AI Enthusiast | Building Intelligent Systems**
-
-📍 Greater Noida, Uttar Pradesh
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Developer;Spring+Boot+Enthusiast;1700%2B+LeetCode+Rating;AI+%26+Backend+Builder" />
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=9B59B6&center=true&vCenter=true&width=435&lines=AIML+Student;AI+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />

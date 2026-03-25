@@ -31,10 +31,14 @@
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Analytics
 
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=VidhitaYadav&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VidhitaYadav&theme=tokyonight&hide_border=true" height="160"/>
+
+</div> -->
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VidhitaYadav&theme=radical" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VidhitaYadav&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VidhitaYadav&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VidhitaYadav&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&icon_color=8B5CF6" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VidhitaYadav&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=c9d1d9" height="160" />
 </div>
 
 <!-- Technical Skills Section - Enhanced -->

@@ -32,8 +32,9 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VidhitaYadav&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9B59B6&icon_color=9B59B6&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VidhitaYadav&theme=midnight-purple&hide_border=true&background=0d1117&stroke=9B59B6&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VidhitaYadav&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VidhitaYadav&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VidhitaYadav&theme=radical" alt="Most Commit Language" />
 </div>
 
 <!-- Technical Skills Section - Enhanced -->

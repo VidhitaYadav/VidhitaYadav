@@ -42,8 +42,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VidhitaYadav&theme=synthwave&hide_border=true" height="160"/>
 
 </div>
-
-
+---
 <!-- Technical Skills Section - Enhanced -->
 ## 🛠️ Technical Skills
 
@@ -87,7 +86,7 @@
   ![MVC](https://img.shields.io/badge/MVC_Architecture-4ECDC4?style=for-the-badge)
   
 </div>
-
+---
 <!-- Featured Projects - Highlighting Your AI/ML Work -->
 ## 🚀 Featured Projects
 
@@ -139,7 +138,7 @@
       <td width="50%">
     </table>
 </div>
-
+---
 <!-- Competitive Programming & Achievements -->
 ## 🏅 Achievements & Competitive Programming
 
@@ -159,7 +158,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VidhitaYadav&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9B59B6" alt="WakaTime Stats" />
 </div>
-
+---
 
 <!-- Activity Graph -->
 ## 📈 Contribution Activity
@@ -167,7 +166,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VidhitaYadav&theme=react-dark&bg_color=0d1117&hide_border=true&point=9B59B6&line=9B59B6&color=9B59B6" alt="Activity Graph" />
 </div>
-
+---
 
 <!-- Connect Section -->
 ## 🤝 Let's Connect
@@ -195,7 +194,7 @@
     <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
 </div>
-
+---
 ## 🐍 Contribution Snake Animation
 
 <div align="center">

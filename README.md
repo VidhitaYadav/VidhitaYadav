@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=9B59B6&center=true&vCenter=true&width=435&lines=AIML+Student;AI+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
 </div>
-
+---
 <!-- About Me Section with Professional Summary -->
 ## 👩‍💻 About Me
 
@@ -28,7 +28,7 @@
    </table>
 </div>
 
-
+---
 ## 📊 GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=VidhitaYadav&show_icons=true&theme=midnight-purple&hide_border=true" height="160"/>

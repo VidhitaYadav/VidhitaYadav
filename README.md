@@ -98,3 +98,75 @@
 
 ### Multi-Class Chest X-Ray Disease Detection
 `Python` `TensorFlow` `Keras` `ResNet50` `CNN` `Gradio`
+
+- Developed a transfer learning pipeline for classification of `7 thoracic diseases`
+- Trained and optimized the model on `8.4K` X-ray images using preprocessing, fine-tuning, and regularization
+- Deployed an interactive Gradio app for real-time disease prediction
+
+[View Repository](https://github.com/VidhitaYadav/Chest-XRay-Classification-ResNet50) | [Live Demo](https://huggingface.co/spaces/VidhitaYadav/chest-xray-detection)
+
+---
+
+## Achievements
+
+- Solved `250+ DSA problems` across LeetCode, GeeksforGeeks, and Codeforces
+- Smart India Hackathon `2025` participant
+- Book chapter proposal accepted by `IGI Global (2026)` on hybrid ResNet50-CNN based chest X-ray disease classification
+- Certified in DSA, Deep Learning, React, ML and AI, and Cybersecurity
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Vi_dhi_ta?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" width="350" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vi_dhi_ta&theme=dark" alt="Codeforces Stats" width="350" />
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VidhitaYadav&theme=react-dark&bg_color=0d1117&hide_border=true&point=9B59B6&line=9B59B6&color=9B59B6" alt="Contribution Graph" />
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vidhita-yadav/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yadavvidhita@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://leetcode.com/u/Vi_dhi_ta/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/Vi_dhi_ta">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/yadavvitled">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://github.com/VidhitaYadav">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://huggingface.co/Vidhita">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  </a>
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/VidhitaYadav/VidhitaYadav/blob/output/snake.svg?raw=true" alt="Snake Animation" />
+</div>
+
+---
+
+<div align="center">
+  <i>Building intelligent systems that make a difference | Passionate about AI, backend engineering, and scalable solutions</i>
+  <br /><br />
+  <i>From <a href="https://github.com/VidhitaYadav">Vidhita Yadav</a></i>
+</div>

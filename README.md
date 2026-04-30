@@ -105,7 +105,7 @@
 - Trained and optimized the model on `8.4K` X-ray images using preprocessing, fine-tuning, and regularization
 - Deployed an interactive Gradio app for real-time disease prediction
 
-[View Repository](https://github.com/VidhitaYadav/Chest-XRay-Classification-ResNet50) 
+ [View Repository](https://github.com/VidhitaYadav/Chest-XRay-Classification-ResNet50)
 ---
 
 ## Achievements
@@ -113,7 +113,6 @@
 - Solved `250+ DSA problems` across LeetCode, GeeksforGeeks, and Codeforces
 - Smart India Hackathon `2025` participant
 - Book chapter proposal accepted by `IGI Global (2026)` on hybrid ResNet50-CNN based chest X-ray disease classification
-- Certified in DSA, Deep Learning, React, ML and AI, and Cybersecurity
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Vi_dhi_ta?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" width="350" />

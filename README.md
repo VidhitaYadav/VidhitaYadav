@@ -3,7 +3,7 @@
 <h3 align="center">AIML Student | AI Enthusiast | Backend Learner | Building Intelligent Systems</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=700&color=9B59B6&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AIML)+Student;AI%2FML+%26+Backend+Enthusiast;Building+Intelligent+Systems;Open+to+SDE+%26+ML+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=700&color=9B59B6&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AIML)+Student;AI%2FML+%26+Backend+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
 </div>
 
 ---
@@ -13,9 +13,6 @@
 - B.Tech CSE (AIML) student at NIET, Greater Noida with a CGPA of `8.37`
 - Interested in `AI/ML`, `deep learning`, `NLP`, and `backend systems`
 - Built projects using `FastAPI`, `Node.js`, `Express.js`, `PyTorch`, `TensorFlow`, and `Gradio`
-- Solved `250+ DSA problems` across LeetCode, GeeksforGeeks, and Codeforces
-- Smart India Hackathon 2025 participant
-- Book chapter proposal accepted by `IGI Global (2026)` for AI healthcare research
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidhitaYadav&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9B59B6" alt="Top Languages" />

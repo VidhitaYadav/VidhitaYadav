@@ -87,6 +87,8 @@
 - Designed an agentic workflow for web search, scraping, report writing, and critique generation
 - Deployed the full-stack app publicly on Render with basic request throttling and input validation
 
+[View Repository](https://github.com/VidhitaYadav/Multi-Agent_AI_Research_System-ResearchBot) | [Live Demo](https://multi-agent-ai-research-system-td58.onrender.com)
+
 ### Confidence-Aware Answer Verification System
 `Python` `PyTorch` `Hugging Face` `Gradio`
 
@@ -94,7 +96,7 @@
 - Designed a multi-signal confidence scoring pipeline using semantic inference, lexical matching, and QA agreement
 - Developed a lightweight Gradio app for real-time answer verification and hallucination detection
 
-[View Repository](https://github.com/VidhitaYadav/Confidence-aware-answer-verification) | [Live Demo](https://huggingface.co/spaces/VidhitaYadav/answer-verification)
+[View Repository](https://github.com/VidhitaYadav/Confidence-aware-answer-verification) | [Live Demo](https://huggingface.co/spaces/Vidhita/confidence-answer-verifier)
 
 ### Multi-Class Chest X-Ray Disease Detection
 `Python` `TensorFlow` `Keras` `ResNet50` `CNN` `Gradio`
@@ -103,8 +105,7 @@
 - Trained and optimized the model on `8.4K` X-ray images using preprocessing, fine-tuning, and regularization
 - Deployed an interactive Gradio app for real-time disease prediction
 
-[View Repository](https://github.com/VidhitaYadav/Chest-XRay-Classification-ResNet50) | [Live Demo](https://huggingface.co/spaces/VidhitaYadav/chest-xray-detection)
-
+[View Repository](https://github.com/VidhitaYadav/Chest-XRay-Classification-ResNet50) 
 ---
 
 ## Achievements

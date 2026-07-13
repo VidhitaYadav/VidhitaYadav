@@ -10,7 +10,7 @@
 
 ## About Me
 
-- B.Tech CSE (AIML) student at NIET, Greater Noida with a CGPA of `8.37`
+- B.Tech CSE (AIML) student at NIET, Greater Noida with a CGPA of `8.56`
 - Interested in `AI/ML`, `deep learning`, `NLP`, and `backend systems`
 - Built projects using `FastAPI`, `Node.js`, `Express.js`, `PyTorch`, `TensorFlow`, and `Gradio`
 

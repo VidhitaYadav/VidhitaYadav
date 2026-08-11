@@ -11,7 +11,7 @@
 ## About Me
 
 - B.Tech CSE (AIML) student at NIET, Greater Noida with a CGPA of `8.56`
-- Interested in `AI/ML`, `deep learning`, `NLP`, and `backend systems`
+- Interested in `AI/ML`, `deep learning`, `NLP`,`Gen AI` and `backend systems`
 - Built projects using `FastAPI`, `Node.js`, `Express.js`, `PyTorch`, `TensorFlow`, and `Gradio`
 
 <div align="center">
@@ -102,7 +102,7 @@
 - Performed data cleaning, feature engineering, and preprocessing to improve prediction quality across district-level datasets
 - Evaluated model performance using regression metrics and visualized trends to support precision farming decisions
 
-[View Repository](https://github.com/VidhitaYadav/Precision-Farming-For-Crop-Yield-Optimisation) | [Live Demo](precision-farming-yield-optimiser.onrender.com)
+[View Repository](https://github.com/VidhitaYadav/Precision-Farming-For-Crop-Yield-Optimisation) | [Live Demo](https://precision-farming-yield-optimiser.onrender.com)
 
 ### ScanDeck-AI-Powered Website Audit and Optimization Tool
 `React` `JavaScript` `Bootstrap` `Node` `Express` `API Keys`
@@ -125,7 +125,8 @@
 
 ## Achievements
 
-- Solved `250+ DSA problems` across LeetCode, GeeksforGeeks, and Codeforces
+- Solved `300+ DSA problems` across LeetCode, GeeksforGeeks, and Codeforces
+-  🏆 [HCLTech AI & ML Project-Based Internship](https://www.linkedin.com/feed/update/urn:li:activity:7475242175094738944/) — Completed a 3-month internship with hands-on AI/ML project development.
 - Smart India Hackathon `2025` participant
 - Book chapter proposal accepted by `IGI Global (2026)` on hybrid ResNet50-CNN based chest X-ray disease classification
 

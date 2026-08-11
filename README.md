@@ -95,6 +95,24 @@
 
 [View Repository](https://github.com/VidhitaYadav/Confidence-aware-answer-verification) | [Live Demo](https://huggingface.co/spaces/Vidhita/confidence-answer-verifier)
 
+### Precision Farming for Crop Yield Optimisation
+`Python` `Flask` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
+
+- Designed a crop yield prediction system using K-Means soil segmentation and Random Forest Regression on multi-factor agricultural data
+- Performed data cleaning, feature engineering, and preprocessing to improve prediction quality across district-level datasets
+- Evaluated model performance using regression metrics and visualized trends to support precision farming decisions
+
+[View Repository](https://github.com/VidhitaYadav/Precision-Farming-For-Crop-Yield-Optimisation) | [Live Demo](precision-farming-yield-optimiser.onrender.com)
+
+### ScanDeck-AI-Powered Website Audit and Optimization Tool
+`React` `JavaScript` `Bootstrap` `Node` `Express` `API Keys`
+
+- Built a full-stack website audit tool that analyzes any URL using Google PageSpeed Insights and displays Performance, SEO, Accessibility, and Best Practices scores with prioritized issues
+-  Integrated Gemini AI through a secure Express.js backend to generate practical, plain-English recommendations for performance fixes and Core Web Vitals optimization
+- Developed a responsive React and Bootstrap interface with URL validation, recent scan history, loading/error handling, and audit insights for faster debugging and website optimization
+
+[View Repository](https://github.com/VidhitaYadav/ScanDeck---AI-Powered-Website-Audit-Optimization-Tool) | [Live Demo](https://scandeck-client.onrender.com/)
+
 ### Multi-Class Chest X-Ray Disease Detection
 `Python` `TensorFlow` `Keras` `ResNet50` `CNN` `Gradio`
 

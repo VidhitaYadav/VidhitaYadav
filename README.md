@@ -13,6 +13,7 @@
 - B.Tech CSE (AIML) student at NIET, Greater Noida with a CGPA of `8.56`
 - Interested in `AI/ML`, `deep learning`, `NLP`,`Gen AI` and `backend systems`
 - Built projects using `FastAPI`, `Node.js`, `Express.js`, `PyTorch`, `TensorFlow`, and `Gradio`
+- 🏆 [HCLTech AI & ML Project-Based Internship](https://www.linkedin.com/feed/update/urn:li:activity:7475242175094738944/) — Completed a 3-month internship with hands-on AI/ML project development.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidhitaYadav&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9B59B6" alt="Top Languages" />
@@ -126,7 +127,6 @@
 ## Achievements
 
 - Solved `300+ DSA problems` across LeetCode, GeeksforGeeks, and Codeforces
--  🏆 [HCLTech AI & ML Project-Based Internship](https://www.linkedin.com/feed/update/urn:li:activity:7475242175094738944/) — Completed a 3-month internship with hands-on AI/ML project development.
 - Smart India Hackathon `2025` participant
 - Book chapter proposal accepted by `IGI Global (2026)` on hybrid ResNet50-CNN based chest X-ray disease classification
 

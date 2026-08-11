@@ -121,7 +121,7 @@
 - Trained and optimized the model on `8.4K` X-ray images using preprocessing, fine-tuning, and regularization
 - Deployed an interactive Gradio app for real-time disease prediction
 
- ###[View Repository](https://github.com/VidhitaYadav/Chest-XRay-Classification-ResNet50)
+ [View Repository](https://github.com/VidhitaYadav/Chest-XRay-Classification-ResNet50)
 ---
 
 ## Achievements
